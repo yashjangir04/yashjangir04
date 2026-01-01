@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lofi.gif" width="100%" height="100%" />
+  <img src="assets/lofi.gif" width="800" />
 </p>
 
 # 💫 About Me:
