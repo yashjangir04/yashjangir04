@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🚀 Second-year CSE undergraduate at Indian Institute of Information Technology Kota<br>🔥 I love Data Structures and Algorithms<br>💻 I'm a Full Stack Developer<br>🧠 I'm a Competitive Programmer and love solving problems<br>🌱 Always learning and optimizing my life<br>
+🚀 Second-year CSE Undergraduate at Indian Institute of Information Technology Kota<br>🔥 I love Data Structures and Algorithms<br>💻 I'm a Full Stack Developer<br>🧠 I'm a Competitive Programmer and love solving problems<br>🌱 Always learning and optimizing my life<br>
 
 
 ## 🌐 Socials:
