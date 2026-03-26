@@ -20,6 +20,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=yashjangir04&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashjangir04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api?username=yashjangir04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashjangir04&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
