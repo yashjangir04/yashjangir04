@@ -61,10 +61,11 @@
     <td width="50%" valign="top">
       <h3 align="center">⚔️ <a href="#">Clash of Code</a></h3>
       <p align="center">
-        <em>[Add a quick 1-2 sentence description of what your Clash of Code project does here!]</em>
+        <em>In Progress</em>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
       </p>
     </td>
     <td width="50%" valign="top">
