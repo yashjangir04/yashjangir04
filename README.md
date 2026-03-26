@@ -4,6 +4,10 @@
 
 <h1 align="center">💫 About Me</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashjangir04&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
 <div align="center">
 
 🚀 **Second-year CSE Undergraduate** at *Indian Institute of Information Technology Kota*<br>
@@ -104,19 +108,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashjangir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashjangir04&theme=dark&hide_border=false" width="48%" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=yashjangir04&theme=dark&hide_border=false" width="48%" alt="GitHub Streak">
 </div>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjangir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages">
-</div>
-
-<br>
-
-<h2 align="center">📉 Activity Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjangir04&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph">
 </div>
 
 <br>
