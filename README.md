@@ -61,7 +61,7 @@
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-        </p>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💻 <a href="#">InterVU</a></h3>
@@ -104,7 +104,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashjangir04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yashjangir04&theme=dark&hide_border=false" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashjangir04&theme=dark&hide_border=false" width="48%" alt="GitHub Streak">
 </div>
 <br>
 <div align="center">
@@ -113,10 +113,10 @@
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">📉 Activity Graph</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashjangir04&theme=synthwave&no-frame=false&no-bg=false&margin-w=4" alt="Trophies">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjangir04&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph">
 </div>
 
 <br>
