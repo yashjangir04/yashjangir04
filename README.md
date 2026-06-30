@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🚀 **Second-year CSE Undergraduate** at *Indian Institute of Information Technology Kota*<br>
+🚀 **third-year CSE Undergraduate** at *Indian Institute of Information Technology Kota*<br>
 🔥 I love **Data Structures and Algorithms**<br>
 💻 I'm a **Full Stack Developer**<br>
 🧠 I'm a **Competitive Programmer** and love solving problems<br>
