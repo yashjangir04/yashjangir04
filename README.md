@@ -81,14 +81,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤝 <a href="#">Maitri</a></h3>
-      <p align="center">
-        <em>A women empowerment and assistance platform built as a collaborative hackathon project.</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
-      </p>
+  <h3 align="center">🤝 <a href="#">Maitri</a></h3>
+  
+  <p align="center">
+    <em>A women empowerment and assistance platform built as a collaborative hackathon project.</em>
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📈 <a href="#">Smart Expense Manager</a></h3>
