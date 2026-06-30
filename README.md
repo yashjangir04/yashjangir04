@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🚀 **third-year CSE Undergraduate** at *Indian Institute of Information Technology Kota*<br>
+🚀 **3rd-year CSE Undergraduate** at *Indian Institute of Information Technology Kota*<br>
 🔥 I love **Data Structures and Algorithms**<br>
 💻 I'm a **Full Stack Developer**<br>
 🧠 I'm a **Competitive Programmer** and love solving problems<br>
@@ -86,8 +86,8 @@
         <em>A women empowerment and assistance platform built as a collaborative hackathon project.</em>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -96,8 +96,8 @@
         <em>A smart expense management and approval workflow system.</em>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
       </p>
     </td>
   </tr>
